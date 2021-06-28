@@ -1,4 +1,4 @@
-Project Actronix is a fork of OpenShot Video Editor. I want  the fork to have similar look to Windows Movie Maker, but with more modern and old but useful features,  I want it to be a complete video production and video creation package, something like blender, but targeted towards YouTubers.
+Project Actronix is a fork of OpenShot Video Editor. I want  the fork to have similar look to Windows Movie Maker, but with more modern and old but useful features,  I want it to be a complete video production and video creation package, something like blender, but targeted towards YouTubers. Following is OpenShot original description.
 
 ## Build Status
 
