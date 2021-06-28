@@ -1,7 +1,4 @@
-Project Actronix is a fork of OpenShot Video Editor.
-OpenShot Video Editor is an award-winning free and open-source video editor 
-for Linux, Mac, and Windows, and is dedicated to delivering high quality 
-video editing and animation solutions to the world.
+Project Actronix is a fork of OpenShot Video Editor. I want to make the fork look like Windows Movie Maker, but with more modern and old but useful features, something like blender, but targeted towards You Tubers. Following is original Open Shot Description.
 
 ## Build Status
 
